@@ -1,0 +1,22 @@
+{
+  "name": "basilica",
+  "version": "1.0.0",
+  "description": "a recipe",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync app -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felicitylouis/Basilica.git"
+  },
+  "author": "Felicity Louis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felicitylouis/Basilica/issues"
+  },
+  "homepage": "https://github.com/felicitylouis/Basilica#readme",
+  "dependencies": {
+    "browser-sync": "^3.0.3"
+  }
+}
